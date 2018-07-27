@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>common</name>
-	<description>Demo project for Spring Boot</description>
+	<description>公共模块</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
